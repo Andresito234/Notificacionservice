@@ -1,0 +1,6 @@
+FastAPI
+SQLAlchemy
+Pydantic
+uvicorn
+pytest
+httpx
